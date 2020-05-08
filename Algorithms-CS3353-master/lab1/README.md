@@ -1,1 +1,1 @@
-In this lab, I wrote different implementations of Bubble Sort, Insertion Sort, and Merge Sort algorithm and compared the sorting algorithms on different data set sizes. Please view my lab report for further information comparing the algorithms.
+In this lab, I created different implementations of Bubble Sort, Insertion Sort, and Merge Sort algorithm and compared the sorting algorithms on different data set sizes. Please view my lab report for further information comparing the algorithms.
