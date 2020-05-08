@@ -1,0 +1,384 @@
+Operation performed: Bubble Sort
+Execution time: 1 seconds.
+Data set size: 10 values
+Input file path: dataSets/random10.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 1 seconds.
+Data set size: 10 values
+Input file path: dataSets/random10.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 15 seconds.
+Data set size: 10 values
+Input file path: dataSets/random10.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 8320 seconds.
+Data set size: 1000 values
+Input file path: dataSets/random1000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 3653 seconds.
+Data set size: 1000 values
+Input file path: dataSets/random1000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 991 seconds.
+Data set size: 1000 values
+Input file path: dataSets/random1000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 786913 seconds.
+Data set size: 10000 values
+Input file path: dataSets/random10000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 327768 seconds.
+Data set size: 10000 values
+Input file path: dataSets/random10000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 10995 seconds.
+Data set size: 10000 values
+Input file path: dataSets/random10000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 7.87924e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/random100000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 3.36778e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/random100000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 114704 seconds.
+Data set size: 100000 values
+Input file path: dataSets/random100000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 0 seconds.
+Data set size: 10 values
+Input file path: dataSets/rso10.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 3.44802e+07 seconds.
+Data set size: 10 values
+Input file path: dataSets/rso10.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 11 seconds.
+Data set size: 10 values
+Input file path: dataSets/rso10.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 8494 seconds.
+Data set size: 1000 values
+Input file path: dataSets/rso1000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 3.42267e+07 seconds.
+Data set size: 1000 values
+Input file path: dataSets/rso1000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 897 seconds.
+Data set size: 1000 values
+Input file path: dataSets/rso1000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 768803 seconds.
+Data set size: 10000 values
+Input file path: dataSets/rso10000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 3.71213e+07 seconds.
+Data set size: 10000 values
+Input file path: dataSets/rso10000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 12156 seconds.
+Data set size: 10000 values
+Input file path: dataSets/rso10000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 7.98799e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/rso100000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 9.35287e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/rso100000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 122846 seconds.
+Data set size: 100000 values
+Input file path: dataSets/rso100000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 0 seconds.
+Data set size: 10 values
+Input file path: dataSets/30random10.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 9.06936e+07 seconds.
+Data set size: 10 values
+Input file path: dataSets/30random10.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 10 seconds.
+Data set size: 10 values
+Input file path: dataSets/30random10.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 7894 seconds.
+Data set size: 1000 values
+Input file path: dataSets/30random1000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 9.65928e+07 seconds.
+Data set size: 1000 values
+Input file path: dataSets/30random1000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 995 seconds.
+Data set size: 1000 values
+Input file path: dataSets/30random1000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 801959 seconds.
+Data set size: 10000 values
+Input file path: dataSets/30random10000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 1.08728e+08 seconds.
+Data set size: 10000 values
+Input file path: dataSets/30random10000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 12179 seconds.
+Data set size: 10000 values
+Input file path: dataSets/30random10000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 8.17191e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/30random100000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 2.21624e+08 seconds.
+Data set size: 100000 values
+Input file path: dataSets/30random100000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 112101 seconds.
+Data set size: 100000 values
+Input file path: dataSets/30random100000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 0 seconds.
+Data set size: 10 values
+Input file path: dataSets/unique10.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 2.20755e+08 seconds.
+Data set size: 10 values
+Input file path: dataSets/unique10.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 10 seconds.
+Data set size: 10 values
+Input file path: dataSets/unique10.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 7507 seconds.
+Data set size: 1000 values
+Input file path: dataSets/unique1000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 2.24878e+08 seconds.
+Data set size: 1000 values
+Input file path: dataSets/unique1000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 977 seconds.
+Data set size: 1000 values
+Input file path: dataSets/unique1000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 773338 seconds.
+Data set size: 10000 values
+Input file path: dataSets/unique10000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 2.5451e+08 seconds.
+Data set size: 10000 values
+Input file path: dataSets/unique10000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 11866 seconds.
+Data set size: 10000 values
+Input file path: dataSets/unique10000.txt
+
+
+===============================
+
+Operation performed: Bubble Sort
+Execution time: 7.72934e+07 seconds.
+Data set size: 100000 values
+Input file path: dataSets/unique100000.txt
+
+
+===============================
+
+Operation performed: Insertion Sort
+Execution time: 5.62865e+08 seconds.
+Data set size: 100000 values
+Input file path: dataSets/unique100000.txt
+
+
+===============================
+
+Operation performed: Merge Sort
+Execution time: 134605 seconds.
+Data set size: 100000 values
+Input file path: dataSets/unique100000.txt
+
+
+===============================
+

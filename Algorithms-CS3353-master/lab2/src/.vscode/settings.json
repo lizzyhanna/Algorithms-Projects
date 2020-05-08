@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "iosfwd": "cpp",
+        "tuple": "cpp",
+        "chrono": "cpp",
+        "utility": "cpp",
+        "set": "cpp",
+        "deque": "cpp",
+        "ostream": "cpp"
+    }
+}

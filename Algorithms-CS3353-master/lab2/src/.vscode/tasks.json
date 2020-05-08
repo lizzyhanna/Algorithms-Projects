@@ -1,0 +1,19 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compile",
+            "type": "shell",
+            "command": "clang++",
+            "args": [
+                "-g", "-std=c++14","/Users/elizabethhanna/Desktop/Algorithms-CS3353/lab2/src/*.cpp", "-o", "/Users/elizabethhanna/Desktop/Algorithms-CS3353/lab2/src/a"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+Algorithm: Tabu List
+Time: 391
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 1
+Time: 2351
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 2
+Time: 1404
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 3
+Time: 1355
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 4
+Time: 989
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 5
+Time: 1241
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 6
+Time: 1076
+Distance found: 32
+Tour: 1,2,3,4,1,
+Algorithm: Genetic Algorithm: Technique 7
+Time: 1285
+Distance found: 32
+Tour: 1,2,3,4,1,
